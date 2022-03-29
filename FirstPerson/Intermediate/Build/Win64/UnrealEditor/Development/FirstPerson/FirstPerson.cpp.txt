@@ -1,0 +1,2 @@
+C:\Users\wei.he\Documents\Github\FirstPerson\Intermediate\Build\Win64\UnrealEditor\Development\FirstPerson\Definitions.FirstPerson.h
+C:\Users\wei.he\Documents\Github\FirstPerson\Source\FirstPerson\FirstPerson.h

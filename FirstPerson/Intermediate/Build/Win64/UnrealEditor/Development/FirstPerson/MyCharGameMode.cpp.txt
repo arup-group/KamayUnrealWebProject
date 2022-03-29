@@ -1,0 +1,9 @@
+C:\Users\wei.he\Documents\Github\FirstPerson\Intermediate\Build\Win64\UnrealEditor\Development\FirstPerson\Definitions.FirstPerson.h
+C:\Users\wei.he\Documents\Github\FirstPerson\Source\FirstPerson\MyCharGameMode.h
+C:\Program Files\Epic Games\UE_5.0EA\Engine\Source\Runtime\Engine\Classes\GameFramework/GameMode.h
+C:\Program Files\Epic Games\UE_5.0EA\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+C:\Program Files\Epic Games\UE_5.0EA\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+C:\Program Files\Epic Games\UE_5.0EA\Engine\Intermediate\Build\Win64\UnrealEditor\Inc\Engine\ServerStatReplicator.generated.h
+C:\Program Files\Epic Games\UE_5.0EA\Engine\Intermediate\Build\Win64\UnrealEditor\Inc\Engine\GameModeBase.generated.h
+C:\Program Files\Epic Games\UE_5.0EA\Engine\Intermediate\Build\Win64\UnrealEditor\Inc\Engine\GameMode.generated.h
+C:\Users\wei.he\Documents\Github\FirstPerson\Intermediate\Build\Win64\UnrealEditor\Inc\FirstPerson\MyCharGameMode.generated.h
