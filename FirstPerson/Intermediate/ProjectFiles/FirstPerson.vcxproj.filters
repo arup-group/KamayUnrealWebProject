@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\FirstPerson.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{7B7D9FAF-1605-4CFE-8F02-239D2C7A945D}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\FirstPerson.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\FirstPersonEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{462471A0-F327-4F1A-B3F2-694F6DE8E028}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\FirstPerson">
+      <UniqueIdentifier>{E980A77A-D9BF-4283-B816-A1ADE9DACD73}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\FirstPerson\FirstPerson.Build.cs">
+      <Filter>Source\FirstPerson</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\FirstPerson\FirstPerson.cpp">
+      <Filter>Source\FirstPerson</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FirstPerson\FirstPerson.h">
+      <Filter>Source\FirstPerson</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FirstPerson\MyChar.cpp">
+      <Filter>Source\FirstPerson</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FirstPerson\MyChar.h">
+      <Filter>Source\FirstPerson</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FirstPerson\MyCharGameMode.cpp">
+      <Filter>Source\FirstPerson</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FirstPerson\MyCharGameMode.h">
+      <Filter>Source\FirstPerson</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

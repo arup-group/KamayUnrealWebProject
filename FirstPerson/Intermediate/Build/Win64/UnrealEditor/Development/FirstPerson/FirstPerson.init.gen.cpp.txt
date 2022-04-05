@@ -1,0 +1,3 @@
+C:\Users\wei.he\Documents\Github\FirstPerson\Intermediate\Build\Win64\UnrealEditor\Development\FirstPerson\Definitions.FirstPerson.h
+C:\Program Files\Epic Games\UE_5.0EA\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_5.0EA\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h

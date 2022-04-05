@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "FirstPerson",
+			"Path": "C:\\Users\\wei.he\\Documents\\Github\\FirstPerson\\Source\\FirstPerson.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "FirstPersonEditor",
+			"Path": "C:\\Users\\wei.he\\Documents\\Github\\FirstPerson\\Source\\FirstPersonEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
